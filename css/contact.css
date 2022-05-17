@@ -1,0 +1,43 @@
+body { color: #40514E;
+    margin: auto;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    background-color: #E4F9F5;
+}
+
+h1 {
+    color: #5a94b6;
+}
+
+.form-control {
+        margin: 10px;
+        border: 0ch;
+        -webkit-border-radius: 7;
+        -moz-border-radius: 7;
+        border-radius: 7px;
+        font-family: Arial;
+        color: #ffffff;
+        font-size: 20px;
+        background: #11999E;
+        padding: 10px 20px 10px 20px;
+        text-decoration: none;
+}
+
+.form-control:hover {
+    background: #0a595c;
+    text-decoration: none;
+    margin: 10px;
+}
+
+.input-box {
+    width: 50%;
+    padding: 10px;
+    margin: 10px;
+}
+
+textarea {
+    height: 50vh;
+    width: 50%;
+    padding: 10px;
+    margin: 10px;
+}

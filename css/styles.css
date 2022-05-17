@@ -1,0 +1,117 @@
+
+body { color: #40514E;
+      margin: auto;
+      text-align: center;
+      font-family: 'Merriweather', serif;
+    }
+
+h1 {font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color: #5a94b6;
+    }
+
+h2 {font-size: 2.5rem;
+    color: #5a94b6;
+    padding-bottom: 10px}
+
+.junior-developer {
+  font-size: 1.5rem;
+    color: #5a94b6;
+    padding-bottom: 10px
+}
+
+h3 {color: #11999E;
+    font-size: 1.2rem
+  }
+
+
+.paragraph-links {
+  color: #11999E;
+  text-decoration: none;
+}
+
+.paragraph-links:hover {
+  color: #084b4e;
+  text-decoration: none;
+}
+
+.copyright {color: #EAf6f6;
+            font-size: 0.75rem;
+            padding: 20px 0;
+            margin: 0px;}
+
+
+.skill-row {width: 50%;
+            margin: 50px auto 100px auto;
+            text-align: left;
+          }
+
+.programmer {font-weight: normal;}
+
+
+.profile-image {width:200px;
+                height: 200px;
+                }
+
+.intro {width: 30%;
+        margin: auto;}
+
+.design-image {width: 25%;
+              float:left;
+              margin-right: 30px;}
+
+.languages-image {width: 20%;
+                  float:right;
+                  margin-right: 40px;
+}
+
+.tea-image {width: 25%;
+            float:right;
+            margin-left: 30px;}
+
+.languages-row {
+                width: 50%;
+                margin: 50px auto 100px auto;
+                text-align: left;          
+                }
+
+
+.top-container {
+                padding-top: 100px;
+                background-color: #E4F9F5;
+                margin: 0px;
+                padding-bottom: 0px;
+                border-bottom: 0px;
+                }
+
+
+.middle-container { background-color: white;
+                    margin: 100px auto;
+                  }
+
+
+.lower_cloud {position: absolute;
+              left: 170px;
+              top: 200px;
+
+}
+
+.upper_cloud {position: absolute;
+              right: 250px;
+              top: 40px;
+
+}
+
+.mountain-img {
+      position: fixed;
+      margin: 0px;
+      padding: 0px;
+}
+
+.contact-message {
+                  width: 40%;
+                  margin: 40px auto 60px;
+}
+
+
