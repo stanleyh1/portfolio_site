@@ -47,7 +47,9 @@ h3 {color: #11999E;
             text-align: left;
           }
 
-.programmer {font-weight: normal;}
+.programmer {
+  font-weight: normal;
+}
 
 
 .profile-image {width:200px;
@@ -110,8 +112,9 @@ h3 {color: #11999E;
 }
 
 .contact-message {
-                  width: 40%;
-                  margin: 40px auto 60px;
+  width: 50%;
+  margin: 50px auto 100px auto;
+  text-align: center;  
 }
 
 
