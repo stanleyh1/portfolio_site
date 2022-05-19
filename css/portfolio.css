@@ -40,7 +40,8 @@ body { color: #40514E;
 
 h1 {font-size: 2.5rem;
     color: #5a94b6;
-    padding-bottom: 10px
+    padding-bottom: 10px;
+    padding-top: 50px;
 }
 
 h3 {color: #11999E;
@@ -73,4 +74,8 @@ a:hover {
     text-align: center;
 }
 
-
+.portfolio-footer-container {
+    background-color: #66BFBF;
+    padding: 40px 5px 20px;
+    margin: 500px auto auto auto;
+}
