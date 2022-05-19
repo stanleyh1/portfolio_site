@@ -67,11 +67,15 @@ a:hover {
 .orchestrate-row{
     width: 50%;
     margin: 50px auto 100px auto;
-    text-align: right;
+    text-align: left;
 }
 
 .orchestrate-header {
     text-align: center;
+}
+
+#orchestrate-link {
+    float: right;
 }
 
 .portfolio-footer-container {
